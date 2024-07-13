@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/30epochs/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/30epochs/results.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cbam-attention--loss/best--混合loss.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cbam-attention--loss/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cbam-attention/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/putong--loss/best--混合loss.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/putong/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/se-attention--loss/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/se-attention/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-attention--loss/best--混合loss.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-attention--loss/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-attention/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-ce/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-focal/best.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/without-weighted/best.txt" charset="GBK" />
+  </component>
+</project>
